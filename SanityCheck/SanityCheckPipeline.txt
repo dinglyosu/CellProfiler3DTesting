@@ -1,0 +1,97 @@
+[   1] [Images]
+  To begin creating your project, use the Images module to compile a list of files and/or folders that you want to analyze. You can also specify a set of rules to include only the desired files in your selected folders.
+
+[   2] [Metadata]
+  The Metadata module optionally allows you to extract information describing your images (i.e, metadata) which will be stored along with your measurements. This information can be contained in the file name and/or location, or in an external file.
+
+[   3] [NamesAndTypes]
+  The NamesAndTypes module allows you to assign a meaningful name to each image by which other modules will refer to it.
+
+[   4] [Groups]
+  The Groups module optionally allows you to split your list of images into image subsets (groups) which will be processed independently of each other. Examples of groupings include screening batches, microtiter plates, time-lapse movies, etc.
+
+[   5] [MeasureImageQuality] (disabled)
+
+[   6] [RescaleIntensity]
+
+[   7] [RescaleIntensity]
+
+[   8] [Resize]
+
+[   9] [Resize]
+
+[  10] [MedianFilter]
+
+[  11] [GaussianFilter]
+
+[  12] [AdaptiveLocalNormalization] (disabled)
+
+[  13] [Active contour model]
+
+[  14] [ApplyThreshold]
+
+[  15] [Remove objects] (disabled)
+
+[  16] [ConvertObjectsToImage]
+
+[  17] [Closing] (disabled)
+
+[  18] [Opening]
+
+[  19] [Remove holes]
+
+[  20] [Watershed]
+
+[  21] [ExpandOrShrinkObjects] (disabled)
+
+[  22] [ConvertObjectsToImage]
+
+[  23] [Erosion] (disabled)
+
+[  24] [Seeding]
+
+[  25] [Active contour model]
+
+[  26] [ConvertObjectsToImage]
+
+[  27] [Remove objects]
+
+[  28] [ConvertObjectsToImage]
+
+[  29] [ImageMath]
+
+[  30] [MeasureImageIntensity]
+
+[  31] [ImageMath]
+
+[  32] [LaplacianOfGaussian]
+
+[  33] [ImageMath]
+
+[  34] [ApplyThreshold]
+
+[  35] [Watershed]
+
+[  36] [FilterObjects] (disabled)
+
+[  37] [ConvertObjectsToImage]
+
+[  38] [OverlayOutlines]
+
+[  39] [OverlayOutlines]
+
+[  40] [Save]
+
+[  41] [Save]
+
+[  42] [Save]
+
+[  43] [RelateObjects] (disabled)
+
+[  44] [Crop] (disabled)
+
+[  45] [MeasureObjectIntensity]
+
+[  46] [MeasureTexture]
+
+[  47] [ExportToSpreadsheet]
